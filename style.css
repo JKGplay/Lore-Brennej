@@ -1,0 +1,28 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-image: url(img/oldPaperBckgrnd.jpeg);
+    background-attachment: fixed;
+    background-size: 100% auto;
+}
+div#wszystko {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-left: 5%;
+}
+a.anchor {
+    text-decoration: unset;
+}
+hr {
+    margin-right: 20px;
+    border: 1px solid black;
+
+    
+}
+div.divNaHR {
+    padding: 10px 0px;
+    border-left: 2px solid black;
+}
+.h {
+    text-align: center;
+    font-family: 'IMMORTAL', 'Roboto', sans-serif;
+    font-size: 60px;
+}
