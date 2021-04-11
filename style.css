@@ -87,3 +87,7 @@ td {
 .desc {
     width: 650px;
 }
+.map {
+    max-width: 200%;
+    height: auto;
+}
