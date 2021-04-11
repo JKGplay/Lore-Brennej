@@ -1,4 +1,4 @@
-![Brenna Lore logo](img/social prev.jpg)
+![Brenna Lore logo](img/social_prev.jpg)
 # Brenna Lore
 **Strona internetowa o Historii Brennej** (niekoniecznie prawdziwej, ale to nie jest ważne). Dowiesz się tutaj czym są smokoważki, gdzie w Brennej ma siedzibę gildia inżynierów albo dlaczego Górki (&#x1F922;) są z~~j$*#@~~e. A wszystko to sporządzone zostało przez następujące osoby:
 * kolega Maciej,
