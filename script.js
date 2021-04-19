@@ -17,4 +17,3 @@ zmianaTitle = function () {
 setInterval(title, 1500);
 }
 zmianaTitle();
-
