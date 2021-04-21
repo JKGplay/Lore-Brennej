@@ -16,4 +16,5 @@ zmianaTitle = function () {
 
 setInterval(title, 1500);
 }
+document.title = "👉Lore Brennej👈";
 zmianaTitle();
