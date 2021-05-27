@@ -1,4 +1,4 @@
-zmianaTitle = function () {
+function zmianaTitle() {
     function title() {
         if (document.title === "👉Lore Brennej👈") {
             //console.log(document.title);
@@ -13,7 +13,6 @@ zmianaTitle = function () {
             return
         }
     }
-
 setInterval(title, 1500);
 }
 document.title = "👉Lore Brennej👈";

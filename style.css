@@ -8,14 +8,27 @@ html {
     font-family: 'IMMORTAL';
     src: url(fonts/IMMORTAL.ttf);
 }
-#defBrenna {
+footer {
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    text-shadow: 5px 5px 5px #333;
+}
+.defBrenna {
     font-size: 18px;
+    margin-left: 1%;
+    margin-right: 1%;
+    text-indent: 3%;
 }
 div#wszystko {
     background-color: rgba(255, 255, 255, 0.5);
-    margin-left: 5%;
-    margin-right: 2%;
-    padding: 5px;
+    /*margin-left: 5%;
+    margin-right: 2%;*/
+    margin: auto;
+    width: 80%;
+    padding: 0px;
+    overflow: hidden;
 }
 a.anchor {
     text-decoration: unset;
@@ -49,13 +62,9 @@ h1 {
     margin: 0px;
     margin-left: 2%;
 }
-.defBrenna {
-    margin-left: 1%;
-    margin-right: 1%;
-}
 .HistBrenna {
-    margin-left: 1%;
-    margin-right: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
     text-indent: 3%;
 }
 table {
@@ -92,7 +101,7 @@ td {
 .desc {
     width: 650px;
 }
-.map {
-    max-width: 200%;
+img.map {
+    max-width: 100%;
     height: auto;
 }
