@@ -8,4 +8,4 @@
 * kolega **Mateusz,**
 * oraz ja, kolega **Janek.**
 <br><br>
-Kontakt: jkgplay@gmail.com
+Kontakt: jkgplay2005@gmail.com
