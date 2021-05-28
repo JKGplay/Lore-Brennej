@@ -6,5 +6,6 @@
 * kolega **Miłosz,**
 * kolega **Bartek,**
 * kolega **Mateusz,**
-* oraz ja, kolega **Janek.**<br>
+* oraz ja, kolega **Janek.**
+* <br><br>
 Kontakt: jkgplay@gmail.com
