@@ -45,10 +45,10 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
 
 const todayDate = document.getElementById("date");
 let year = new Date().getFullYear();
-if (year !== 2021) {
+if (year !== 2021 && year > 2021) {
     todayDate.innerHTML = "-" + year;//jeśli bieżący rok = rok powstania czyli 2021, nie dodawaj myślnika i nowego roku
 }
 
   /////////////////////////////////////
- //////////////^Data^/////////////////
+ //////////////^Rok^//////////////////
 /////////////////////////////////////
